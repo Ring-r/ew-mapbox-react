@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ew-mapbox-react/static/css/main.5e756329.css",
+    "main.js": "/ew-mapbox-react/static/js/main.06db689a.js",
+    "static/js/453.70cf45fc.chunk.js": "/ew-mapbox-react/static/js/453.70cf45fc.chunk.js",
+    "index.html": "/ew-mapbox-react/index.html",
+    "main.5e756329.css.map": "/ew-mapbox-react/static/css/main.5e756329.css.map",
+    "main.06db689a.js.map": "/ew-mapbox-react/static/js/main.06db689a.js.map",
+    "453.70cf45fc.chunk.js.map": "/ew-mapbox-react/static/js/453.70cf45fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e756329.css",
+    "static/js/main.06db689a.js"
+  ]
+}
